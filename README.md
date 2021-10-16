@@ -1,6 +1,6 @@
 # link-vote
 
-[Demo](https://link-vote.vercel.app/)
+[Demo](https://composition-api-with-typescript.vercel.app/)
 
 ## Project setup
 ```
